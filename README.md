@@ -30,7 +30,7 @@ Develop a robust social media backend REST API using Node.js, Express.js, and Mo
 ## Installation & Setup
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/postaway-ii.git
+git clone https://github.com/satyam-software-developer/postaway-II.git
 cd postaway-ii
 ```
 ### 2. Install Dependencies
