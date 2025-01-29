@@ -1,3 +1,6 @@
+## Mini Project-Postaway-II 
+   - Problem Statement https://classroom.codingninjas.com/app/classroom/me/25432/content/694562/offering/11358488
+
 
 # Postaway-II: Social Media Backend API
 
@@ -135,6 +138,3 @@ This project is licensed under the MIT License.
 
 ---
 **Postaway-II** is a scalable social media backend that provides a seamless user experience. Happy coding!
-## Mini Project-Postaway-II 
-   - Problem Statement https://classroom.codingninjas.com/app/classroom/me/25432/content/694562/offering/11358488
-
